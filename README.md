@@ -1,7 +1,10 @@
 
 <div align="center"><table>
   <tr>
-    <td>You are visitor</td>
+    <td align="center">Thank you for visiting</td>
+    
+  </tr>
+  <tr>
     <td><img src="https://profile-counter.glitch.me/PushpalDas/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table></div>
