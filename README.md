@@ -27,23 +27,16 @@
   
 </div>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-[![GitHub followers](https://img.shields.io/github/followers/MainakRepositor.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MainakRepositor?tab=followers)
-[![Awesome Badges](https://img.shields.io/badge/coding-awesome-green.svg)](https://github.com/Naereen/badges)
 
 <hr>
 <div align="center">
- <h3> 🎭👋 About Me </h3></div>
+ 
 
-<div align="center"><img width="600" height="300" padding-left="60px" src="https://31.media.tumblr.com/c891df5d9d74fb5f8f1496d33d1cbec3/tumblr_n40g5wTcba1t24k6go1_500.gif" /></div>
+<div align="center"><img width="600" height="300" padding-left="60px" src="https://thumbs.gfycat.com/BigheartedUntidyDoe-max-1mb.gif" /></div>
 <div align="center">
-I am a Computer Science Engineering undergraduate student of the SRM University, Chennai who just landed into the second year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. I love codes and cats. I am much passionate to learn more of <u>Data Science</u> and <u>Machine Learning</u>, so that I could implement them to analyse the huge data which the world produces.</div>
+Undergraduate 4+ year SRM Institute of Science and Technology, bachelor’s degree in Electronics  and Communication engineering. I am a person of discipline and highly enthusiastic when it comes to problem solving and upgrading technology. Leader of a research based academic group , with a single vision on development. I have my interest in embedded systems, digital system design, wireless communication, entrepreneurship.</div>
 
-### Want to know more about me? Have a look at [My Portfolio Website](https://mainakfolio.netlify.app/)
+### Want to know more about me? Have a look at [My Portfolio Website](https://sites.google.com/view/pushpaldas/)
 
 <hr>
 
