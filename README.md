@@ -15,11 +15,11 @@
   <table>       
     <tr>      
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900174-9aa8ff7d-84d6-473e-9432-93690827d161.png"></td>
-      <td><a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin">Linkedin</a></td>
+      <td><a href="https://www.linkedin.com/in/pushpal-das-98485a1b5/" title="Linkedin">Linkedin</a></td>
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900184-f88ad750-b1a9-4471-98d8-6cdfdd0d1915.png"></td>
-      <td><a href="https://www.hackerrank.com/MAINAK039">HackerRank</a></td>
-      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900180-9fb0f2a3-bccb-4598-8a40-e6261993c143.png"></td>
-      <td><a href="" title="Photography">Photography</a></td>
+      <td><a href="https://www.hackerrank.com/dashboard">HackerRank</a></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/90308885/183292229-92daa4dc-39c2-4f7a-a11b-761d2ab500d4.jpg"></td>
+      <td><a href="https://pushpalsphotography.wordpress.com/" title="Photography">Photography</a></td>
     </tr>
     
   </table>
