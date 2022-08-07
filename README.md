@@ -2,12 +2,12 @@
 <div align="center"><table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/MainakRepositor/count.svg" alt="vistor count" height="50" /></td>
+    <td><img src="https://profile-counter.glitch.me/PushpalDas/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table></div>
 
 <div class="headline" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+,+I'm+Mainak+Chaudhuri;Fullstack+Web+Developer;Data+Scientist;Problem+Solver;Freelancer;Open-Source+Contributor;DevOps+Enthusiast" alt="Headline" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&color=65F700&center=true&vCenter=true&width=600&lines=Hey+there%2C+I+am+Pushpal+Das;Embedded+System+Designer;IoT+Architect;Entreprenur" alt="Typing SVG" /></a>
 </div>
  
 
