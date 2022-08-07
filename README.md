@@ -35,7 +35,7 @@
 <div align="center">
  
 
-<div align="center"><img width="400" height="350" padding-left="60px" src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243430568-CYAJVSP83QYWVN8MR8DL/e377461761c8ab33fbb713ada400984a.gif" /></div>
+<div align="center"><img width="800" height="700" padding-left="60px" src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243430568-CYAJVSP83QYWVN8MR8DL/e377461761c8ab33fbb713ada400984a.gif" /></div>
 <div align="center">
 Undergraduate 4+ year SRM Institute of Science and Technology, bachelor’s degree in Electronics  and Communication engineering. I am a person of discipline and highly enthusiastic when it comes to problem solving and upgrading technology. Leader of a research based academic group , with a single vision on development. I have my interest in embedded systems, digital system design, wireless communication, entrepreneurship.</div>
 
