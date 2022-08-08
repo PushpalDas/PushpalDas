@@ -10,7 +10,7 @@
 </table></div>
 
 <div class="headline" align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&color=65F700&center=true&vCenter=true&width=600&lines=Hey+there%2C+I+am+Pushpal+Das;Embedded+System+Designer;IoT+Architect;Entreprenur" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&color=65F700&center=true&vCenter=true&width=600&lines=Hey+there%2C+I+am+Pushpal+Das;Embedded+System+Designer;IoT+Architect;Entrepreneur" alt="Typing SVG" /></a>
 </div>
  
 
