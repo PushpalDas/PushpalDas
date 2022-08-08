@@ -35,7 +35,7 @@
 <div align="center">
  
 
-<div align="center"><img width="500" height="350" padding-left="60px" src="https://c.tenor.com/5yVdAjgEfg4AAAAd/pi-math.gif" /></div>
+<div align="center"><img width="500" height="350" padding-left="60px" src="" /></div>
 <div align="center">
 Undergraduate 4+ year SRM Institute of Science and Technology, bachelor’s degree in Electronics  and Communication engineering. I am a person of discipline and highly enthusiastic when it comes to problem solving and upgrading technology. Leader of a research based academic group , with a single vision on development. I have my interest in embedded systems, digital system design, wireless communication, entrepreneurship.</div>
 
